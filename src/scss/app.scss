@@ -27,3 +27,21 @@ html {
   font-size: 10rem;
   flex-flow: column;
 }
+.input[name="email"]{
+  height: auto;
+}
+.input[name="name"]{
+  height: auto;
+}
+.input[name="address"]{
+  height: auto;
+}
+.input[name="phone"]{
+  height: auto;
+}
+.input[name="color"]{
+  height: auto;
+}
+.input[name="delivery_date"]{
+  height: auto;
+}
